@@ -102,10 +102,17 @@ textarea {
     font-family: arial;
 }
 .main{
-    max-width: 960px;
+    max-width: 80%;
     margin: 0 auto;
     background-color: orange;
 } 
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav a{
+    font-size: 1em;
+}
 
 
 
