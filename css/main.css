@@ -111,6 +111,9 @@ nav{
 } 
 nav a{ 
     font-size: 1em; 
+    text-decoration: none;
+    color: #050505;
+    padding-left: 10px;
 } 
 
 
