@@ -96,12 +96,15 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-  
+.banner{
+    text-align: center;
+    font-size: 1.5em;
+    font-family: arial;
+}
 .main{
     max-width: 960px;
     margin: 0 auto;
     background-color: orange;
-    text-align: center;
 } 
 
 
