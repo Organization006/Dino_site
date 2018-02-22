@@ -106,16 +106,6 @@ textarea {
     margin: 0 auto;
     background-color: orange;
 } 
-nav{
-    display: flex;
-    justify-content: center;
-}
-nav a{
-    font-size: 1em;
-}
-
-
-
 
 
 
